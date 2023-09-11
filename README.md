@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **cheungcheung05/cheungcheung05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about my hobbies
 - 📫 How to reach me: Linkedin
 - ⚡ Fun fact: ... I am from Hong Kong
--->
+
